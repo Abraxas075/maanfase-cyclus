@@ -18,6 +18,8 @@ npm test           # unit tests
 ```
 
 De build gebruikt relatieve paden en kan dus op elk subpad of domein worden gehost (bv. GitHub Pages).
+Online zetten: de workflow `.github/workflows/pages.yml` bouwt en publiceert bij elke push naar `main`
+(zet in GitHub onder Settings → Pages de bron op "GitHub Actions").
 Installeren op de telefoon: open de site in Chrome/Safari en kies "Toevoegen aan beginscherm".
 
 ## Wat zit erin
